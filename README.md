@@ -27,7 +27,7 @@ Powered by SAM 3 and multimodal large models, it enables high-fidelity reconstru
 </p>
 
 <p align="center">
-  👆 <b>Click above or `https://editbanana.anxin6.cn/` to try Edit Banana online!</b> Upload an image or pdf, get <b>editable DrawIO (XML) or PPTX</b> in seconds. 
+  👆 <b>Click above or https://editbanana.anxin6.cn/ to try Edit Banana online!</b> Upload an image or pdf, get <b>editable DrawIO (XML) or PPTX</b> in seconds. 
   <b>Please note</b>: Our GitHub repository currently trails behind our web-based service. For the most up-to-date features and performance, we recommend using our web platform.
 </p>
 
