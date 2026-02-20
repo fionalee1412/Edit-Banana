@@ -32,6 +32,18 @@ Powered by SAM 3 and multimodal large models, it enables high-fidelity reconstru
   <b>Please note</b>: Our GitHub repository currently trails behind our web-based service. For the most up-to-date features and performance, we recommend using our web platform.
 </p>
 
+## 💬 Join WeChat Group
+
+Welcome to join our WeChat group to discuss and exchange ideas! Scan the QR code below to join:
+
+<p align="center">
+  <img src="/static/wechat_20260228.jpg" width="200" alt="WeChat Group QR Code"/>
+  <br/>
+  <em>Scan to join the Edit Banana community</em>
+</p>
+
+> 💡 If the QR code has expired, please submit an [Issue](https://github.com/XiangjianYi/Image2DrawIO/issues) to request an updated one.
+
 ---
 
 ## 📸 Effect Demonstration
@@ -219,17 +231,7 @@ Contributions of all kinds are welcome (code submissions, bug reports, feature s
 Bug Reports: [Issues](https://github.com/XiangjianYi/Image2DrawIO/issues)
 Feature Suggestions: [Discussions](https://github.com/XiangjianYi/Image2DrawIO/discussions)
 
-## 💬 Join WeChat Group
 
-Welcome to join our WeChat group to discuss and exchange ideas! Scan the QR code below to join:
-
-<p align="center">
-  <img src="/static/wechat_20260223.jpg" width="200" alt="WeChat Group QR Code"/>
-  <br/>
-  <em>Scan to join the Edit Banana community</em>
-</p>
-
-> 💡 If the QR code has expired, please submit an [Issue](https://github.com/XiangjianYi/Image2DrawIO/issues) to request an updated one.
 
 ## 🤩 Contributors
 Thanks to all developers who have contributed to the project and promoted its iteration!
