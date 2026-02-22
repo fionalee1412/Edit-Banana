@@ -20,18 +20,6 @@ Powered by SAM 3 and multimodal large models, it enables high-fidelity reconstru
 
 ---
 
-<h3 align="center">Try It Now!</h3>
-<p align="center">
-  <a href="https://editbanana.anxin6.cn/">
-    <img src="https://img.shields.io/badge/🚀%20Try%20Online%20Demo-editbanana.anxin6.cn-FF6B6B?style=for-the-badge&logoColor=white" alt="Try Online Demo"/>
-  </a>
-</p>
-
-<p align="center">
-  👆 <b>Click above or https://editbanana.anxin6.cn/ to try Edit Banana online!</b> Upload an image or pdf, get <b>editable DrawIO (XML) or PPTX</b> in seconds. 
-  <b>Please note</b>: Our GitHub repository currently trails behind our web-based service. For the most up-to-date features and performance, we recommend using our web platform.
-</p>
-
 ## 📸 Effect Demonstration
 ### High-Definition Input-Output Comparison (3 Typical Scenarios)
 To demonstrate the high-fidelity conversion effect, we provides one-to-one comparisons between 3 scenarios of "original static formats" and "editable reconstruction results". All elements can be individually dragged, styled, and modified.
